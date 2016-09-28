@@ -17,4 +17,28 @@ header.hero h1{
  font-size: 3em;
  font-family: sans-serif;
 }
+
+header.hero .fa{
+ font-size: 4em;
+ display: block;
+}
+
+header.hero a{
+ display: block;
+ width: 200px;
+ height: 60px;
+ box-sizing: border-box;
+ border: 2px solid #fff;
+ margin: 80px auto;
+ color: #fff;
+ font-family: sans-serif;
+ font-size: 1.4em;
+ text-decoration: none;
+ line-height: 2.5em;
+}
+
+ header.hero a:hover{
+ background: #fff;
+ color: #123A52;
+}
     
